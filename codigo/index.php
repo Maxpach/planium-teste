@@ -48,7 +48,7 @@
 			<div class="container">
 				<div class="row justify-content-center">
 					<div id="logo" class="col-md-6 text-center mb-5">
-						<img src="imagens/platium.svg" alt="logo" width="200px"></img>
+						<img src="imagens/planium.svg" alt="logo" width="200px"></img>
 					</div>
 				</div>
 				<div class="row justify-content-center">
