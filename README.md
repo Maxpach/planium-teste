@@ -18,8 +18,8 @@ Para rodar o Projeto, siga estas etapas:
 
 04 - A página principal será - http://localhost:8000/index.php
 
-Não á a necessidade de por o nome da pasta antes (/pasta/index.php), já que o projeto esta solto, para que</br>
-seje mais fácil a iniciação no servidor local.
+Caso não abra - Tente usar direcionar a raiz do arquivo:
+exemplo -  http://localhost:8000/index.php ou  http://localhost:8000/codigo/index.php ou  http://localhost:8000/planium-teste-main/codigo/index.php
 
 </br>
 
